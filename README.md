@@ -1,2 +1,2 @@
-# Linked-list-operations - Javascript
-This folder contains some Singly linked list operations in JavaScript that I have done. Will update more in coming days.
+# Data Structures Operations in JavaScript
+Here, you'll find a comprehensive collection of JavaScript code implementing various data structures and their associated operations.
